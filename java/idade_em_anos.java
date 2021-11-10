@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class idade_em_anos {
+public class Idade_em_anos {
 
 	public static void main(String[] args) {
 

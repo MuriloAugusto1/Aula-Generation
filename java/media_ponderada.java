@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class media_ponderada {
+public class Media_ponderada {
 
 	public static void main(String[] args) {
 

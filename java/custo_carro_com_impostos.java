@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class custo_carro_com_impostos {
+public class Custo_carro_com_impostos {
 
 	public static void main(String[] args) {
 		
