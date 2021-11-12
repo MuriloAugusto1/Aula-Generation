@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Idades_com_while {
+public class IdadesComWhile {
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
 		int idade, menor21 = 0, maior50 = 0;

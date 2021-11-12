@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Media_multiplos_de_3 {
+public class MediaMultiplosDe3 {
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
 		float num, soma = 0, multiplos = 0, media;

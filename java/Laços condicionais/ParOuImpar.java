@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Par_ou_impar {
+public class ParOuImpar {
 
 	public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Soma_até_digitar_zero {
+public class SomaDigitarZero {
 	public static void main(String[] args) {
 
 		Scanner ler = new Scanner(System.in);

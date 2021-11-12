@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Calcular_expressao {
+public class CalcularExpressao {
 
 	public static void main(String[] args) {
 

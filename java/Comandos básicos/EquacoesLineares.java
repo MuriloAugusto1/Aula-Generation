@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Equacoes_lineares {
+public class EquacoesLineares {
 
 	public static void main(String[] args) {
 

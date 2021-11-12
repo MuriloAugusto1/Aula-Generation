@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Idade_dias_para_anos {
+public class IdadeDiasParaAnos {
 
 	public static void main(String[] args) {
 

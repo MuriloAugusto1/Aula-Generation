@@ -1,6 +1,6 @@
 package generation;
 
-public class De_1000_a_1999 {
+public class De1000a1999 {
 	public static void main(String[] args) {
 
 		int x;

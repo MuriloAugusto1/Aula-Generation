@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Características_psicológicas {
+public class CaracteristicasPsicologicas {
 	public static void main(String[] args) {
 
 		Scanner ler = new Scanner(System.in);

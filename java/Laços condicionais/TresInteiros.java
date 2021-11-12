@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Tres_inteiros {
+public class TresInteiros {
 
 	public static void main(String[] args) {
 

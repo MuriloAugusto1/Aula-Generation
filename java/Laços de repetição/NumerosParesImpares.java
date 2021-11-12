@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Numeros_pares_e_ímpares {
+public class NumerosParesImpares {
 	public static void main(String[] args) {
 
 		Scanner ler = new Scanner(System.in);

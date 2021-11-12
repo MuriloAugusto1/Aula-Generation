@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Idade_categoria {
+public class IdadeCategoria {
 
 	public static void main(String[] args) {
 

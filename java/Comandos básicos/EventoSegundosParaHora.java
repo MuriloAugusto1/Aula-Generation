@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Evento_segundos_para_hora {
+public class EventoSegundosParaHora {
 
 	public static void main(String[] args) {
 

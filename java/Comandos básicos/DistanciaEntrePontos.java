@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Distancia_entre_pontos {
+public class DistanciaEntrePontos {
 
 	public static void main(String[] args) {
 
