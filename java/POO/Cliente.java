@@ -5,42 +5,42 @@ public class Cliente {
 	private String Nome;
 	private int Codigo;
 	private String Sexo;
-	private float saldo;
+	private float Saldo;
 	
 	public String getSexo() {
 		return Sexo;
 	}
 
-	public void setSexo(String sexo) {
-		Sexo = sexo;
+	public void setSexo(String Sexo) {
+		this.Sexo = Sexo;
 	}
 
 	public String getNome() {
 		return Nome;
 	}
 
-	public void setNome(String nome) {
-		Nome = nome;
+	public void setNome(String Nome) {
+		this.Nome = Nome;
 	}
 
 	public int getCodigo() {
 		return Codigo;
 	}
 
-	public void setCodigo(int codigo) {
-		Codigo = codigo;
+	public void setCodigo(int Codigo) {
+		this.Codigo = Codigo;
 	}
 	
-	public float getsaldo() {
-		return saldo;
+	public float getSaldo() {
+		return Saldo;
 	}
 	
-	public void setsaldo(float Saldo) {
-		saldo = Saldo;
+	public void setSaldo(float Saldo) {
+		this.Saldo = Saldo;
 	}
 	
-	public float comprar(float gasto) {
-		saldo = saldo - gasto;
-		return saldo;
+	public float comprar(float Gasto) {
+		Saldo = Saldo - Gasto;
+		return Saldo;
 	}
 }

@@ -2,46 +2,46 @@ package poo;
 
 public class Aviao {
 	
-	private int codigo;
-	private int passageiros;
-	private String empresa;
-	private double custo_passagem;
-	private double renda;
+	private int Codigo;
+	private int Passageiros;
+	private String Empresa;
+	private double Custo_passagem;
+	private double Renda;
 	
-	public int getcodigo() {
-		return codigo;
+	public int getCodigo() {
+		return Codigo;
 	}
-	public void setcodigo(int Codigo) {
-		codigo = Codigo;
-	}
-	
-	public int getpassageiros() {
-		return passageiros;
-	}
-	public void setpassageiros(int Passageiros) {
-		passageiros = Passageiros;
+	public void setCodigo(int Codigo) {
+		this.Codigo = Codigo;
 	}
 	
-	public String getempresa() {
-		return empresa;
+	public int getPassageiros() {
+		return Passageiros;
 	}
-	public void setempresa(String Empresa) {
-		empresa = Empresa;
-	}
-	
-	public double getcusto_passagem() {
-		return custo_passagem;
-	}
-	public void setcusto_passagem(double d) {
-		custo_passagem = d;
+	public void setPassageiros(int Passageiros) {
+		this.Passageiros = Passageiros;
 	}
 	
-	public double renda(double custo_passagem, double passageiros) {
-		renda = custo_passagem * passageiros;
-		return renda;		
+	public String getEmpresa() {
+		return Empresa;
+	}
+	public void setEmpresa(String Empresa) {
+		this.Empresa = Empresa;
 	}
 	
-	public double getrenda() {
-		return renda;
+	public double getCusto_passagem() {
+		return Custo_passagem;
+	}
+	public void setCusto_passagem(double d) {
+		Custo_passagem = d;
+	}
+	
+	public double Renda(double custo_passagem, double passageiros) {
+		Renda = custo_passagem * passageiros;
+		return Renda;		
+	}
+	
+	public double getRenda() {
+		return Renda;
 	}
 }

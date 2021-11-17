@@ -15,11 +15,11 @@ public class ClienteObjeto {
 		c1.setCodigo(1);
 		c2.setCodigo(2);
 		
-		c1.setsaldo(1000);
-		System.out.println("O saldo de João é " + c1.getsaldo());
+		c1.setSaldo(1000);
+		System.out.println("O saldo de João é " + c1.getSaldo());
 		c1.comprar(300);
 		
-		System.out.println("O novo saldo de " + c1.getNome() + " é de " + c1.getsaldo());
+		System.out.println("O novo saldo de " + c1.getNome() + " é de " + c1.getSaldo());
 		
 		System.out.println("O/a cliente " + c1.getNome() + " de código " + c1.getCodigo() + " é do sexo " + c1.getSexo());
 		System.out.println("O/a cliente " + c2.getNome() + " de código " + c2.getCodigo() + " é do sexo " + c2.getSexo());
